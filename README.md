@@ -1,2 +1,2 @@
 # PlayerMove
-inpllementation of player's movement through the gaming mouse
+inplementation of the player's movement through the gaming mouse
